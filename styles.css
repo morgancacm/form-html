@@ -75,3 +75,8 @@ input[type="file"] {
 a {
     color: #dfdfe2;
 }
+
+footer {
+    text-align: center;
+    padding-bottom: 2em;
+}
